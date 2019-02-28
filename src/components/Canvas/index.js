@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import * as THREE from 'three';
-import ColladaLoader from '../../vendor/ColladaLoader';
+import ColladaLoader from './ColladaLoader';
 import OrbitControls from 'three-orbitcontrols';
 
 class Canvas extends Component {
